@@ -1,4 +1,4 @@
-This is a test file.
+This is a masti file.
 There is a boy who want to rule the world.
 //The plot is in the StoryPlot file.
 
